@@ -68,7 +68,7 @@
             </div>
             <div class="separator"></div>
             <div class="center">
-                <button type="button" id="Submit">Submitt</button>
+                <button type="button" id="Submit">Submit</button>
             </div>
             <div class="separator"></div>
             <div class="contentBlock">
